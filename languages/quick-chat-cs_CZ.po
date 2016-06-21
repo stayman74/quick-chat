@@ -458,7 +458,7 @@ msgstr "Zvuk"
 
 #: /home/marko/public_html/wordpress/wp-content/plugins/quick-chat/quick-chat.php:733
 msgid "You must login if you want to participate in chat."
-msgstr "Pro zapojení do konverzace se přihlašte."
+msgstr "Co se děje v klubu online."
 
 #: /home/marko/public_html/wordpress/wp-content/plugins/quick-chat/quick-chat.php:734
 msgid "Send"
